@@ -1,4 +1,4 @@
-# This program solves a common problem for musicians and amateur producers, namely to come up with new catchy chord progressions. 
+This program solves a common problem for musicians and amateur producers; to come up with new catchy chord progressions. 
 
 The initial version of the program will be limited to 45 different chord progressions, e.g D, G, A is one progression, but future versions should be extended to include even more variations. 
 
