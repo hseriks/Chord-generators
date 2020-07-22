@@ -1,5 +1,7 @@
 #Great code amigo
 
+#Maybe you cab add pictures and text
+
 import random 
 
 C_145 = ("C,F,G")
