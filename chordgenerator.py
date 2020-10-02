@@ -4,7 +4,8 @@
     # Show common note for each progression 
     # major scale = 1 - 1 - 1/2 - 1 - 1 - 1 - 1/2 
     # minor scale = 1 - 1/2 - 1 - 1 - 1/2 - 1  1 
-    #add minor scarecrow
+    #add minor scarecrow 2 test this is better than the previous one
+    #Tis is weird
 
 
 import random
