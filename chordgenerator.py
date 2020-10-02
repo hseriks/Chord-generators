@@ -6,6 +6,7 @@
     # minor scale = 1 - 1/2 - 1 - 1 - 1/2 - 1  1 
     #add minor scarecrow 2 test this is better than the previous one
     #Tis is weird
+    #might be on to something
 
 
 import random
